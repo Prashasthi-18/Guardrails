@@ -1,4 +1,4 @@
-# 🛡️ Guardrails in LLM Applications
+# Guardrails in LLM Applications
 
 A practical implementation of **LLM Guardrails** using LangChain and LangGraph.  
 This project demonstrates how to control, validate, and secure AI agent behavior using multiple safety mechanisms.
