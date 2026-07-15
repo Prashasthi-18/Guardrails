@@ -260,7 +260,7 @@ Benefits:
 
 ---
 
-# 🏥 Real-World Use Case: Healthcare Chatbot
+# Real-World Use Case: Healthcare Chatbot
 
 ## Problem
 
@@ -335,7 +335,7 @@ Required for:
 
 ---
 
-# 🛠️ Technologies Used
+# Technologies Used
 
 - Python
 - LangChain
