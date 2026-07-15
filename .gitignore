@@ -1,2 +1,22 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
 .env
-.venv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# LangSmith
+.langsmith/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
